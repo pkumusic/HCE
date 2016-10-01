@@ -1,0 +1,2 @@
+The first word in each line is the category. All other concepts in this line belongs to this category.
+For the Battig83 dataset, we carefully do some minor changes on selection of words to match them with Wikipedia entity names. This dataset contains 83 concepts categorized into 10 categories.
